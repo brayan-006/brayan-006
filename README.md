@@ -7,7 +7,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (Unilasalle) e técnico em T
 🎓 Cursando ADS na Unilasalle | Técnico em TI (QI)
 🔧 Buscando vaga inicial em **Suporte ERP/AMS**, **Service Desk** ou áreas correlatas
 🌱 Aprendendo constantemente novas tecnologias e boas práticas de desenvolvimento
-🗣️ Inglês nível B1 (leitura técnica)
+🗣️ Inglês nível C1
 📍 Sapucaia do Sul, RS - Brasil
 
 🛠️ Tecnologias e ferramentas
