@@ -23,14 +23,14 @@ Estudante de Análise e Desenvolvimento de Sistemas (Unilasalle) e técnico em T
 
  📌 Projetos em destaque
  
-🌐 [lsk-technologies](https://github.com/brayan-006/lsk-technologies)** — Projeto em JavaScript.
+🌐 [lsk-technologies](https://github.com/brayan-006/lsk-technologies) — Projeto em JavaScript.
 
-🔐 [projeto_login](https://github.com/brayan-006/projeto_login)** — Sistema de login com autenticação via Firebase, desenvolvido em Dart.
+🔐 [projeto_login](https://github.com/brayan-006/projeto_login) — Sistema de login com autenticação via Firebase, desenvolvido em Dart.
 
-🖥️ [Laravel](https://github.com/brayan-006/Laravel)** — Projeto de estudo em Laravel, explorando estrutura MVC e boas práticas do 
+🖥️ [Laravel](https://github.com/brayan-006/Laravel) — Projeto de estudo em Laravel, explorando estrutura MVC e boas práticas do 
 framework.
 
-🔢 [conversor1](https://github.com/brayan-006/conversor1)** — Projeto final em C++ com foco em lógica de programação.
+🔢 [conversor1](https://github.com/brayan-006/conversor1) — Projeto final em C++ com foco em lógica de programação.
 
 
  🎯 Objetivo profissional
