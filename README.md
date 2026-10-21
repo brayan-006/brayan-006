@@ -1,46 +1,49 @@
-Olá, eu sou o Brayan 👋
+ Hi, I'm Brayan
 
-Estudante de Análise e Desenvolvimento de Sistemas (Unilasalle) e técnico em TI, em busca da minha primeira oportunidade na área de Suporte de TI / ERP / Service Desk.
+Systems Analysis and Development student at La Salle University (Unilasalle), with a technical degree in IT. I build Java backends and I'm looking for my **first internship or junior role** in software development or SAP-related areas.
 
-💼 Sobre mim
+Based in Sapucaia do Sul, RS, Brazil. English: C1.
 
-🎓 Cursando ADS na Unilasalle | Técnico em TI (QI)
-🔧 Buscando vaga inicial em **Suporte ERP/AMS**, **Service Desk** ou áreas correlatas
-🌱 Aprendendo constantemente novas tecnologias e boas práticas de desenvolvimento
-🗣️ Inglês nível C1
-📍 Sapucaia do Sul, RS - Brasil
+## Featured project: LSK Inventory
 
-🛠️ Tecnologias e ferramentas
+An inventory management backend that keeps SAP Business One in sync, so a failure in SAP never loses a stock movement.
 
+- **FEFO picking** (earliest expiry first) implemented in a PostgreSQL function
+- **Idempotent** sales events (RabbitMQ) and NF-e receipts
+- **SAP Business One sync** through an outbox, with automatic retries
+- ABC analysis, minimum-stock alerts and a React dashboard
+- 26 integration tests (Testcontainers), CI on every push, one-command Docker setup
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+Java 17 · Spring Boot · PostgreSQL · RabbitMQ · React · Docker
 
+![LSK Inventory dashboard](https://raw.githubusercontent.com/brayan-006/lsk-inventory/main/docs/screenshots/overview.png)
 
- 📌 Projetos em destaque
- 
-🌐 [lsk-technologies](https://github.com/brayan-006/lsk-technologies) — Projeto em JavaScript.
+Code and documentation: **[brayan-006/lsk-inventory](https://github.com/brayan-006/lsk-inventory)**
 
-🔐 [projeto_login](https://github.com/brayan-006/projeto_login) — Sistema de login com autenticação via Firebase, desenvolvido em Dart.
+Honest notes: I don't have access to a real SAP Business One system, so the integration was validated against a mock of the Service Layer that I wrote, including failure and retry. I used an AI assistant as a support tool; the design decisions and the validation are mine. Both are described in the project README.
 
-🖥️ [Laravel](https://github.com/brayan-006/Laravel) — Projeto de estudo em Laravel, explorando estrutura MVC e boas práticas do 
-framework.
+<!-- Demo video: add the LinkedIn post link here after publishing
+[Watch the demo](LINK-DO-POST)
+-->
 
-🔢 [conversor1](https://github.com/brayan-006/conversor1) — Projeto final em C++ com foco em lógica de programação.
+## Tech I use
 
+**Backend:** Java, Spring Boot, REST APIs, SQL, PostgreSQL, RabbitMQ
+**Frontend:** React, JavaScript
+**Tools:** Git, GitHub, GitHub Actions, Docker
 
- 🎯 Objetivo profissional
+## Learning
 
-Busco uma posição inicial em Suporte de TI, com interesse em ambientes que trabalhem com ERP/SAP, atendimento a chamados (Service Desk) e resolução de problemas técnicos, unindo minha formação em ADS com experiência prática em atendimento e organização adquirida em experiências anteriores.
+SAP BTP, CAP and Cloud Foundry through SAP Learning. Completed: *Developing Applications for SAP* and *Introducing AI Fundamentals*.
 
- 📫 Contato
+## Other projects
 
- 📧 brayanlatosinski@gmail.com
- 💼 LinkedIn - https://www.linkedin.com/in/brayan-latosinski-07628122a/
+- [lsk-technologies](https://github.com/brayan-006/lsk-technologies): company website (React, JavaScript, Vite)
+- Earlier study projects: [projeto_login](https://github.com/brayan-006/projeto_login) (Dart, Firebase authentication), [Laravel](https://github.com/brayan-006/Laravel) (MVC study), [conversor1](https://github.com/brayan-006/conversor1) (C++)
 
+## Contact
 
- Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+- LinkedIn: [brayanlatosinski](https://www.linkedin.com/in/brayanlatosinski)
+- E-mail: [brayanlatosinski@gmail.com](mailto:brayanlatosinski@gmail.com)
+
+*Em português: estudante de ADS (Unilasalle) buscando o primeiro estágio ou vaga júnior em desenvolvimento backend Java e áreas ligadas à SAP.*
