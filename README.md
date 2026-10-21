@@ -39,8 +39,8 @@ Busco uma posição inicial em Suporte de TI, com interesse em ambientes que tra
 
  📫 Contato
 
-- 📧 brayanlatosinski@gmail.com
-- 💼 LinkedIn - https://www.linkedin.com/in/brayan-latosinski-07628122a/
+ 📧 brayanlatosinski@gmail.com
+ 💼 LinkedIn - https://www.linkedin.com/in/brayan-latosinski-07628122a/
 
----
-⭐ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
+
+ Sinta-se à vontade para explorar meus repositórios e entrar em contato!
