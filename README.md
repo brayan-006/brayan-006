@@ -22,10 +22,7 @@ Code and documentation: **[brayan-006/lsk-inventory](https://github.com/brayan-0
 
 Honest notes: I don't have access to a real SAP Business One system, so the integration was validated against a mock of the Service Layer that I wrote, including failure and retry. I used an AI assistant as a support tool; the design decisions and the validation are mine. Both are described in the project README.
 
-<!-- Demo video: add the LinkedIn post link here after publishing
-[Watch the demo](LINK-DO-POST)
--->
-
+[Watch the demo video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7518974668372856834/)
 ## Tech I use
 
 **Backend:** Java, Spring Boot, REST APIs, SQL, PostgreSQL, RabbitMQ
